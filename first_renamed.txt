@@ -1,0 +1,5 @@
+this is version 1 of my project
+i want to go into commit 2
+awesome git tutorials harry bhai
+
+this is changed now
